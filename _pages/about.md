@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Resume</a>. Software Engineer. QA Analyst. Video game Enthusiast.
+subtitle: <a href='https://linsaki.github.io/cv/'>Resume</a>. Software Engineer. QA Analyst. Video game Enthusiast.
 
 profile:
   align: right
