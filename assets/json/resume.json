@@ -30,11 +30,13 @@
       "startDate": "2025-04-01",
       "endDate": "2025-08-01",
       "summary": "",
-      "highlights": ["Tested VR casino games in Unity (regression, functional, performance, playtest) to ensure quality across scenarios",
-    "Conducted cross-platform testing on Meta Quest, Mobile, PC; identified hardware-specific issues",
-    "Created/executed test cases and bug reports using JIRA and Testpad",
-    "Worked with devs/designers to resolve Unity bugs and validate performance across builds.",
-    "Participated in agile ceremonies (stand-ups, sprint reviews) to support timely issue resolution."]
+      "highlights": [
+        "Tested VR casino games in Unity (regression, functional, performance, playtest) to ensure quality across scenarios",
+        "Conducted cross-platform testing on Meta Quest, Mobile, PC; identified hardware-specific issues",
+        "Created/executed test cases and bug reports using JIRA and Testpad",
+        "Worked with devs/designers to resolve Unity bugs and validate performance across builds.",
+        "Participated in agile ceremonies (stand-ups, sprint reviews) to support timely issue resolution."
+      ]
     },
     {
       "name": "PointClickCare, Toronto, Ontario",
@@ -43,11 +45,13 @@
       "startDate": "2024-09-01",
       "endDate": "2025-04-01",
       "summary": "",
-      "highlights": ["Resolved hardware/software issues via ticketing system, improving reliability and user satisfaction by 25 to 30%.",
-    "Supported 1,000+ users during Windows 11 migration with upgrades, testing, and automation.",
-    "Created PowerShell scripts to automate installs and configs, cutting manual effort and errors.",
-    "Provided Tier 1 & 2 tech support across phone, email, chat, and in-person IT bar.",
-    "Helped develop technical docs and training materials to support onboarding and system adoption."]
+      "highlights": [
+        "Resolved hardware/software issues via ticketing system, improving reliability and user satisfaction by 25 to 30%.",
+        "Supported 1,000+ users during Windows 11 migration with upgrades, testing, and automation.",
+        "Created PowerShell scripts to automate installs and configs, cutting manual effort and errors.",
+        "Provided Tier 1 & 2 tech support across phone, email, chat, and in-person IT bar.",
+        "Helped develop technical docs and training materials to support onboarding and system adoption."
+      ]
     }
   ],
   "volunteer": [
@@ -59,9 +63,11 @@
       "startDate": "2025-01-01",
       "endDate": "",
       "summary": "",
-      "highlights": ["Participated in Hackville, a 36-hour hackathon at Sheridan College, building real-world software solutions.",
-      "Designed and built Therapeia, a mental health VR app using Flutter (frontend) and Spring Boot (backend).",
-      "Applied agile principles for rapid prototyping and cross-platform development in a high-pressure team setting."]
+      "highlights": [
+        "Participated in Hackville, a 36-hour hackathon at Sheridan College, building real-world software solutions.",
+        "Designed and built Therapeia, a mental health VR app using Flutter (frontend) and Spring Boot (backend).",
+        "Applied agile principles for rapid prototyping and cross-platform development in a high-pressure team setting."
+      ]
     },
     {
       "organization": "Sheridan College",
@@ -71,9 +77,11 @@
       "startDate": "2023-02-01",
       "endDate": "Present",
       "summary": "",
-      "highlights": ["Active member of GDG On Campus; participated in workshops, peer sessions, and projects using Firebase, Flutter, and Google Cloud.",
-      "Contributed to community hackathons and initiatives supporting local businesses and social impact.",
-      "Gained technical and soft skills through collaboration, mentorship, and networking with peers and professionals."]
+      "highlights": [
+        "Active member of GDG On Campus; participated in workshops, peer sessions, and projects using Firebase, Flutter, and Google Cloud.",
+        "Contributed to community hackathons and initiatives supporting local businesses and social impact.",
+        "Gained technical and soft skills through collaboration, mentorship, and networking with peers and professionals."
+      ]
     }
   ],
   "education": [
