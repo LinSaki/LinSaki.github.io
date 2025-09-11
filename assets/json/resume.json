@@ -24,25 +24,56 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Lucky VR, Toronto, Ontario",
+      "position": "Quality Assurance Analyst Intern",
+      "url": "https://www.getluckyvr.com/",
+      "startDate": "2025-04-01",
+      "endDate": "2025-08-01",
+      "summary": "",
+      "highlights": ["Tested VR casino games in Unity (regression, functional, performance, playtest) to ensure quality across scenarios",
+    "Conducted cross-platform testing on Meta Quest, Mobile, PC; identified hardware-specific issues",
+    "Created/executed test cases and bug reports using JIRA and Testpad",
+    "Worked with devs/designers to resolve Unity bugs and validate performance across builds.",
+    "Participated in agile ceremonies (stand-ups, sprint reviews) to support timely issue resolution."]
+    },
+    {
+      "name": "PointClickCare, Toronto, Ontario",
+      "position": "Technology Support Specialist I",
+      "url": "https://pointclickcare.com/",
+      "startDate": "2024-09-01",
+      "endDate": "2025-04-01",
+      "summary": "",
+      "highlights": ["Resolved hardware/software issues via ticketing system, improving reliability and user satisfaction by 25 to 30%.",
+    "Supported 1,000+ users during Windows 11 migration with upgrades, testing, and automation.",
+    "Created PowerShell scripts to automate installs and configs, cutting manual effort and errors.",
+    "Provided Tier 1 & 2 tech support across phone, email, chat, and in-person IT bar.",
+    "Helped develop technical docs and training materials to support onboarding and system adoption."]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Sheridan College",
+      "location": "Brampton, Ontario",
+      "position": "Hackville Participant (Hackathon)",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Participated in Hackville, a 36-hour hackathon at Sheridan College, building real-world software solutions.",
+      "Designed and built Therapeia, a mental health VR app using Flutter (frontend) and Spring Boot (backend).",
+      "Applied agile principles for rapid prototyping and cross-platform development in a high-pressure team setting."]
+    },
+    {
+      "organization": "Sheridan College",
+      "location": "Brampton, Ontario",
+      "position": "Google Developer Group Member ",
+      "url": "",
+      "startDate": "2023-02-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Active member of GDG On Campus; participated in workshops, peer sessions, and projects using Firebase, Flutter, and Google Cloud.",
+      "Contributed to community hackathons and initiatives supporting local businesses and social impact.",
+      "Gained technical and soft skills through collaboration, mentorship, and networking with peers and professionals."]
     }
   ],
   "education": [
@@ -51,7 +82,7 @@
       "location": "Brampton, Ontario",
       "url": "https://www.sheridancollege.ca/",
       "area": "Computer Systems Technology - Software Engineering",
-      "studyType": "Diploma",
+      "studyType": "Software Engineering Diploma",
       "startDate": "2023-01-10",
       "endDate": "2026-04-17",
       "score": "",
@@ -62,7 +93,7 @@
       "location": "Toronto, Ontario",
       "url": "https://www.utoronto.ca/",
       "area": "Health Science Biology & Neurobiology",
-      "studyType": "HBSc (Honours BAchelor of Science)",
+      "studyType": "HBSc (Honours Bachelor of Science)",
       "startDate": "",
       "endDate": "",
       "score": "",
@@ -71,11 +102,11 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Doug Waechter Memorial Award",
+      "date": "2025-05-01",
+      "awarder": "Sheridan Faculty of Applied Science and Technology",
+      "url": "",
+      "summary": "Doug Waechter Memorial Award for exceptional academic performance with a GPA of 3.99/4.00"
     }
   ],
   "certificates": [
