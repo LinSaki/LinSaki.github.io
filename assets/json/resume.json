@@ -61,7 +61,7 @@
       "position": "Hackville Participant (Hackathon)",
       "url": "",
       "startDate": "2025-01-01",
-      "endDate": "",
+      "endDate": "2025-01-01",
       "summary": "",
       "highlights": [
         "Participated in Hackville, a 36-hour hackathon at Sheridan College, building real-world software solutions.",
@@ -186,28 +186,57 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Languages",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Bash/Shell", "C", "C#", "CSS", "HTML", "Java", "JavaFX", "JavaScript", "PHP", "Python", "SQL"]
+    },
+    {
+      "name": "Software",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Amazon Web Services",
+        "Azure Data Studio",
+        "Cisco Packet Tracer",
+        "Eclipse",
+        "Figma",
+        "GitHub",
+        "IntelliJ",
+        "JIRA",
+        "Microsoft Active Directory",
+        "Microsoft Azure",
+        "Microsoft Office",
+        "MongoDB",
+        "NetBeans",
+        "NetSuite",
+        "Oracle",
+        "Scene Builder",
+        "ServiceNow",
+        "Talend",
+        "Visual Paradigm",
+        "Unity",
+        "Visual Studio Code",
+        "Wireshark"
       ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Angular", "ASP.NET Core", "Flutter", "Jetpack Compose", "JUnit", "React", "Spring Boot"]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Android", "iOS", "Linux/Unix", "MacOS", "Ubuntu", "Windows"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
@@ -239,12 +268,16 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "'Therapeia' VR Therapy mobile and VR app",
+      "summary": "Our VR therapy platform brings Cognitive Behavioral Therapy (CBT) and exposure therapy into a fully immersive, therapist-guided virtual environment. With AI-driven data analysis, progress tracking, and real-time physiological monitoring, therapists and patients gain valuable insights to enhance treatment effectiveness—all from the comfort of your home. ",
+      "highlights": [
+        "Leading development of a VR therapy platform, managing framework design, unit testing, and UX implementation.",
+        "Enhanced 3D environments with interactive features for personalized client and therapist experiences.",
+        "Built immersive, cost-effective solution using Unity, C#, Flutter, Spring Boot, .NET, GitHub, and Visual Studio."
+      ],
+      "startDate": "2025-01-01",
+      "endDate": "Present",
+      "url": "https://linsaki.github.io/projects/1_project.html"
     }
   ]
 }
