@@ -10,13 +10,19 @@ related_publications: true
 
 Our VR therapy platform brings Cognitive Behavioral Therapy (CBT) and exposure therapy into a fully immersive, therapist-guided virtual environment. With AI-driven data analysis, progress tracking, and real-time physiological monitoring, therapists and patients gain valuable insights to enhance treatment effectiveness—all from the comfort of your home.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img src="/assets/img/capstone_early_stages.gif" alt="Capstone early stage demo" class="img-fluid rounded z-depth-1">
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img src="/assets/img/mobile.gif" alt="Capstone mobile demo" class="img-fluid rounded z-depth-1">
-    </div>
+<div class="row justify-content-center align-items-center">
+  <div class="col-sm-6 mt-3 mt-md-0 text-center">
+    <img src="/assets/img/capstone_early_stages.gif"
+         alt="Capstone early stage demo"
+         class="img-fluid rounded z-depth-1"
+         style="height: 300px; object-fit: cover;">
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0 text-center">
+    <img src="/assets/img/mobile.gif"
+         alt="Capstone mobile demo"
+         class="img-fluid rounded z-depth-1"
+         style="height: 300px; object-fit: cover;">
+  </div>
 </div>
 <div class="caption">
     The left GIF shows the project in its early stages running within the Unity Editor. The right GIF demonstrates a work-in-progress version of the mobile app interacting with the backend.
