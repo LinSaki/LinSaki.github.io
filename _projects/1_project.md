@@ -12,10 +12,10 @@ Our VR therapy platform brings Cognitive Behavioral Therapy (CBT) and exposure t
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/capstone_early_stages.gif" title="early stages gif" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="/assets/img/capstone_early_stages.gif" title="early stages gif" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/capstone_mobile.gif" title="mobile demo gif" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="/assets/img/capstone_mobile.gif" title="mobile demo gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -24,7 +24,7 @@ Our VR therapy platform brings Cognitive Behavioral Therapy (CBT) and exposure t
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <video class="img-fluid rounded z-depth-1" muted playsinline>
-            <source src="assets/video/capstone_final_vid.mp4" type="video/mp4">
+            <source src="/assets/video/capstone_final_vid.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
