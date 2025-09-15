@@ -28,9 +28,9 @@ ninja.data = [{
           description: "VR Therapy App",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-full-stack-web-application",
+          title: 'Full-Stack Web Application',
+          description: "Built with Spring Boot (REST API), Angular frontend, and a connected database.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-project-3-with-very-long-name",
@@ -38,9 +38,9 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-flappy-pikmin",
+          title: 'Flappy Pikmin',
+          description: "Flappy Bird that inspired my first Unity Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
             },},{id: "projects-project-5",
