@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of projects from coursework, professional experience, and personal exploration. Each project reflects my journey in learning, building, and experimenting with code—from classroom assignments to creative side projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
