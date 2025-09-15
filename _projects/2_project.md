@@ -7,6 +7,7 @@ importance: 2
 category: work
 giscus_comments: true
 ---
+
 Developed a full-stack application for an Advanced Java Frameworks course using Spring Boot to build a RESTful API that connects an Angular frontend with a backend database. Implemented one-to-many relationships between data models and enabled dynamic data manipulation from the frontend—adding and removing records with real-time updates reflected in the database
 
 <div class="row">
