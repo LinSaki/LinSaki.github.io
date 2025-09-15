@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of projects from coursework, professional experience, and personal exploration. Each project reflects my journey in learning, building, and experimenting with code—from classroom assignments to creative side projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -33,9 +33,9 @@ ninja.data = [{
           description: "Built with Spring Boot (REST API), Angular frontend, and a connected database.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-cat-blog-website",
+          title: 'Cat Blog Website',
+          description: "Early Web Development Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},{id: "projects-flappy-pikmin",
