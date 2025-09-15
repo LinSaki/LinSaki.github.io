@@ -58,9 +58,9 @@ ninja.data = [{
           description: "3D Third-Person Shooter Game",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-bullet-hell-mini-game",
+          title: 'Bullet Hell Mini Game',
+          description: "Mini bullet game built with WPF, .NET Framework, and C#",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
             },},{id: "projects-project-9",
