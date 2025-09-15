@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Capstone Project - Therapeia
-description: VR Therapy app
-img: /assets/img/capstone_early_stages.gif
+description: VR Therapy App
+img: /assets/img/capstone_early_stage.gif
 importance: 1
 category: work
 related_publications: true
@@ -12,13 +12,13 @@ Our VR therapy platform brings Cognitive Behavioral Therapy (CBT) and exposure t
 
 <div class="row justify-content-center align-items-center">
   <div class="col-sm-6 mt-3 mt-md-0 text-center">
-    <img src="/assets/img/capstone_early_stages.gif"
+    <img src="/assets/img/capstone_early_stage.gif"
          alt="Capstone early stage demo"
          class="img-fluid rounded z-depth-1"
          style="height: 300px; object-fit: cover;">
   </div>
   <div class="col-sm-6 mt-3 mt-md-0 text-center">
-    <img src="/assets/img/mobile.gif"
+    <img src="/assets/img/capstone_mobile.gif"
          alt="Capstone mobile demo"
          class="img-fluid rounded z-depth-1"
          style="height: 300px; object-fit: cover;">
@@ -30,7 +30,7 @@ Our VR therapy platform brings Cognitive Behavioral Therapy (CBT) and exposure t
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <video controls playsinline class="img-fluid rounded z-depth-1">
-            <source src="/assets/video/capstone_final_vid.mp4" type="video/mp4">
+            <source src="/assets/video/capstone_final_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
