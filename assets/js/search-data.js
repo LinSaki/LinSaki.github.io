@@ -53,9 +53,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-fox-vs-zombies",
+          title: 'Fox vs. Zombies',
+          description: "3D Third-Person Shooter Game",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
             },},{id: "projects-project-8",
