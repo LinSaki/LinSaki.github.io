@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "projects-capstone-project-therapeia",
           title: 'Capstone Project - Therapeia',
-          description: "VR Therapy app",
+          description: "VR Therapy App",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
