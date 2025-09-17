@@ -25,8 +25,10 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Kaitlin — a dedicated and adaptable developer with a passion for building things that are both functional and fun. I’ve worked in fast-paced environments where I’ve taken on leadership roles, managed responsibilities under pressure, and learned the importance of staying organized and communicating clearly to get things done.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have a strong aptitude for coding and enjoy working across different languages and frameworks. That flexibility has helped me succeed in both academic settings and real-world projects. I’ve built full-stack applications with Spring Boot and Angular, developed games in Unity with C#, and explored a variety of technologies to bring my ideas to life.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+What drives me most is the process of learning and creating—whether it’s designing a web app, building a game, or solving a challenging problem. I’m always looking for new ways to grow as a developer and collaborate with others who share that same drive.
+
+Thanks for stopping by and checking out my work!
