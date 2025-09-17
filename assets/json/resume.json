@@ -268,7 +268,8 @@
   ],
   "projects": [
     {
-      "name": "'Therapeia' VR Therapy mobile and VR app",
+      "image": "/assets/img/capstone_early_stage.gif",
+      "name": "Therapeia - VR Therapy and mobile app",
       "summary": "Our VR therapy platform brings Cognitive Behavioral Therapy (CBT) and exposure therapy into a fully immersive, therapist-guided virtual environment. With AI-driven data analysis, progress tracking, and real-time physiological monitoring, therapists and patients gain valuable insights to enhance treatment effectiveness—all from the comfort of your home. ",
       "highlights": [
         "Leading development of a VR therapy platform, managing framework design, unit testing, and UX implementation.",
@@ -278,6 +279,19 @@
       "startDate": "2025-01-01",
       "endDate": "Present",
       "url": "https://linsaki.github.io/projects/1_project.html"
+    },
+    {
+      "image": "/assets/img/3d_wip.gif",
+      "name": "Fox vs. Zombies - 3D Third-Person Shooter Game",
+      "summary": "Developed a lighthearted third-person shooter game as the final project for a 3D game programming course. Allowing the player to eliminate zombies using ray casting and included checkpoints for additional points.",
+      "highlights": [
+        "Built a 3D third-person shooter in Unity with C#, using ray casting for shooting and enemy collision detection.",
+        "Designed core gameplay features like score-based progression, time-based checkpoints, and trigger-based animations.",
+        "Integrated custom models, music, and UI for a polished and engaging player experience."
+      ],
+      "startDate": "2025-04-01",
+      "endDate": "2025-04-01",
+      "url": "https://linsaki.github.io/projects/7_project.html"
     }
   ]
 }
