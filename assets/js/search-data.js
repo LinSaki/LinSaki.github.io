@@ -43,16 +43,6 @@ ninja.data = [{
           description: "Flappy Bird that inspired my first Unity Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
             },},{id: "projects-fox-vs-zombies",
           title: 'Fox vs. Zombies',
           description: "3D Third-Person Shooter Game",
@@ -63,11 +53,6 @@ ninja.data = [{
           description: "Mini bullet game built with WPF, .NET Framework, and C#",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
             },},{
         id: 'social-email',
         title: 'email',
