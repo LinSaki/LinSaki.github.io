@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Capstone Project - Therapeia
-description: VR Therapy App
+description: Therapy VR and Mobile App
 img: /assets/img/capstone_early_stage.gif
 importance: 1
 category: work
