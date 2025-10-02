@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "projects-capstone-project-therapeia",
           title: 'Capstone Project - Therapeia',
-          description: "VR Therapy App",
+          description: "Therapy VR and Mobile App",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-full-stack-web-application",
@@ -43,6 +43,11 @@ ninja.data = [{
           description: "Flappy Bird that inspired my first Unity Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
+            },},{id: "projects-front-end-web-application",
+          title: 'Front-end Web Application',
+          description: "Work in Progress – Front-End Web App (React.js &amp; Tailwind CSS)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project.html";
             },},{id: "projects-fox-vs-zombies",
           title: 'Fox vs. Zombies',
           description: "3D Third-Person Shooter Game",
