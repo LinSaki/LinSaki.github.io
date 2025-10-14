@@ -299,7 +299,11 @@
       "summary": "A workin in progress of a responsive web application developed for a small company affiliated with the University of Toronto",
       "highlights": [
         "Built using React.js and styled with Tailwind CSS, the site is designed to deliver a clean user interface and smooth user experience",
+<<<<<<< HEAD
         "implementing dynamic front-end features, ensuring mobile responsiveness, and aligning the design with the companys branding guidelines"
+=======
+        "implementing dynamic front-end features, ensuring mobile responsiveness, and aligning the design with the company’s branding guidelines"
+>>>>>>> 9f35972658544ad213776d5ea0b204619d7ae1f3
       ],
       "startDate": "2025-09-01",
       "endDate": "Present",
