@@ -270,7 +270,7 @@
     {
       "image": "/assets/img/capstone_early_stage.gif",
       "name": "Therapeia - VR Therapy and mobile app",
-      "summary": "Our VR therapy platform brings Cognitive Behavioral Therapy (CBT) and exposure therapy into a fully immersive, therapist-guided virtual environment. With AI-driven data analysis, progress tracking, and real-time physiological monitoring, therapists and patients gain valuable insights to enhance treatment effectiveness—all from the comfort of your home. ",
+      "summary": "A VR therapy platform that brings Cognitive Behavioral Therapy (CBT) and exposure therapy into a fully immersive, therapist-guided virtual environment. With AI-driven data analysis, progress tracking, and real-time physiological monitoring, therapists and patients gain valuable insights to enhance treatment effectiveness—all from the comfort of your home. ",
       "highlights": [
         "Leading development of a VR therapy platform, managing framework design, unit testing, and UX implementation.",
         "Enhanced 3D environments with interactive features for personalized client and therapist experiences.",
@@ -289,9 +289,21 @@
         "Designed core gameplay features like score-based progression, time-based checkpoints, and trigger-based animations.",
         "Integrated custom models, music, and UI for a polished and engaging player experience."
       ],
-      "startDate": "2025-04-01",
+      "startDate": "2025-03-01",
       "endDate": "2025-04-01",
       "url": "https://linsaki.github.io/projects/7_project.html"
+    },
+        {
+      "image": "",
+      "name": "Photagenix - Front-end Web Application",
+      "summary": "A workin in progress of a responsive web application developed for a small company affiliated with the University of Toronto",
+      "highlights": [
+        "Built using React.js and styled with Tailwind CSS, the site is designed to deliver a clean user interface and smooth user experience",
+        "implementing dynamic front-end features, ensuring mobile responsiveness, and aligning the design with the company’s branding guidelines"
+      ],
+      "startDate": "2025-09-01",
+      "endDate": "Present",
+      "url": "https://linsaki.github.io/projects/5_project.html"
     }
   ]
 }
