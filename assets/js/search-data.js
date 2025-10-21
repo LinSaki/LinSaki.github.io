@@ -58,6 +58,11 @@ ninja.data = [{
           description: "Mini bullet game built with WPF, .NET Framework, and C#",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
+            },},{id: "projects-2d-rpg-platform",
+          title: '2D RPG Platform',
+          description: "Work in Progress - 2D RPG Platformer",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project.html";
             },},{
         id: 'social-email',
         title: 'email',
