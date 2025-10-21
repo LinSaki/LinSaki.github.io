@@ -3,7 +3,7 @@ layout: page
 title: 2D RPG Platform
 description: Work in Progress - 2D RPG Platformer
 img: /assets/img/2d-rpg.gif
-importance: 2
+importance: 3
 category: fun
 ---
 
