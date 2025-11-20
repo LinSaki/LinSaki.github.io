@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-capstone-project-therapeia",
+        },{id: "projects-2d-rpg-platform",
+          title: '2D RPG Platform',
+          description: "Work in Progress - Pomodoro Gacha Game",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project.html";
+            },},{id: "projects-capstone-project-therapeia",
           title: 'Capstone Project - Therapeia',
           description: "Therapy VR and Mobile App",
           section: "Projects",handler: () => {
@@ -60,7 +65,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project.html";
             },},{id: "projects-2d-rpg-platform",
           title: '2D RPG Platform',
-          description: "Work in Progress - 2D RPG Platformer",
+          description: "Work in Progress - Mobile 2D RPG Mini Game",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
             },},{
