@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-2d-rpg-platform",
-          title: '2D RPG Platform',
-          description: "Work in Progress - Pomodoro Gacha Game",
+        },{id: "projects-pomodoro-gacha-game",
+          title: 'Pomodoro Gacha Game',
+          description: "Work in Progress - Turning your focus time into rewards",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project.html";
             },},{id: "projects-capstone-project-therapeia",
@@ -63,9 +63,9 @@ ninja.data = [{
           description: "Mini bullet game built with WPF, .NET Framework, and C#",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
-            },},{id: "projects-2d-rpg-platform",
-          title: '2D RPG Platform',
-          description: "Work in Progress - Mobile 2D RPG Mini Game",
+            },},{id: "projects-mobile-2d-rpg-mini-game",
+          title: 'Mobile 2D RPG Mini Game',
+          description: "Work in Progress - Mini game where you defend a friend from waves of enemies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
             },},{
