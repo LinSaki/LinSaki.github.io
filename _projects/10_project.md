@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2D RPG Platform
-description: Work in Progress - Pomodoro Gacha Game
+title: Pomodoro Gacha Game
+description: Work in Progress - Turning your focus time into rewards
 img: /assets/img/pom.gif
 importance: 3
 category: fun
