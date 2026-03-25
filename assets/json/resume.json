@@ -3,7 +3,7 @@
     "name": "Kaitlin Saqui",
     "label": "Software Engineer",
     "image": "",
-    "email": "saquika@sheridancollege.ca",
+    "email": "kaitlin.saqui@gmail.com",
     "phone": "",
     "url": "https://github.com/LinSaki",
     "summary": "",
@@ -23,6 +23,20 @@
     ]
   },
   "work": [
+    {
+      "name": "PhotaGenix, Toronto, Ontario",
+      "position": "Software Developer",
+      "url": "https://photagenix.com/",
+      "startDate": "2025-09-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Collaborated with a University of Toronto affiliated company to design, develop, and test a web application, gathering requirements, refining UI/UX, and delivering an intuitive user interface.",
+        "Conducted comprehensive manual testing to validate functionality, identify defects, and improve overall application reliability and user experience.",
+        "Analyzed large-scale genomic experiment datasets by organizing and processing thousands of gene sequences using Python and the pandas library.",
+        "Developed Python scripts to detect and count recurring DNA patterns, significantly improving efficiency in genomic data analysis."
+      ]
+    },
     {
       "name": "Lucky VR, Toronto, Ontario",
       "position": "Quality Assurance Analyst Intern",
@@ -75,7 +89,7 @@
       "position": "Google Developer Group Member ",
       "url": "",
       "startDate": "2023-02-01",
-      "endDate": "Present",
+      "endDate": "2025-12-01",
       "summary": "",
       "highlights": [
         "Active member of GDG On Campus; participated in workshops, peer sessions, and projects using Firebase, Flutter, and Google Cloud.",
@@ -92,7 +106,7 @@
       "area": "Computer Systems Technology - Software Engineering",
       "studyType": "Software Engineering Diploma",
       "startDate": "2023-01-10",
-      "endDate": "2026-04-17",
+      "endDate": "2025-12-17",
       "score": "",
       "courses": ["Cumulative GPA: 3.99/4.00", "Doug Waechter Memorial Award"]
     },
@@ -277,7 +291,7 @@
         "Built immersive, cost-effective solution using Unity, C#, Flutter, Spring Boot, .NET, GitHub, and Visual Studio."
       ],
       "startDate": "2025-01-01",
-      "endDate": "Present",
+      "endDate": "2025-12-01",
       "url": "https://linsaki.github.io/projects/1_project.html"
     },
     {
