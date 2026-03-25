@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of projects from coursework, professional experience, and personal exploration. Each project reflects my journey in learning, building, and experimenting with code—from classroom assignments to creative side projects.",
+          description: "A growing collection of projects from coursework, professional experience, and personal exploration. Each project reflects my journey in learning, building, and experimenting with code from classroom assignments to creative side projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
